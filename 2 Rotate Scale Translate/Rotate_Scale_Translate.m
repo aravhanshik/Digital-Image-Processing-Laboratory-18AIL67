@@ -1,4 +1,4 @@
-OriginalImage = imread('C:\Users\Student\Downloads\bug.jpg');
+OriginalImage = imread('C:\Users\Student\Downloads\flower.jpg');
 subplot(2,2,1); imshow(OriginalImage);
 title("Original Image");
 
